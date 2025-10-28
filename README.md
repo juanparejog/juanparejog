@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]  
+# 👋 ¡Hola! Soy [Juan Parejo García]  
 
 ### 💻 Desarrollador de Aplicaciones Web | 🎓 Estudiante de Máster en Ciberseguridad
 
