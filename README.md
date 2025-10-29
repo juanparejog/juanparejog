@@ -68,7 +68,7 @@ _Backend desarrollado en **Spring Boot**, frontend en **Angular**._
 ### 🌐 Contacto  
 
 📫 **Correo:** [juanparejo@iescastelar.com](mailto:juanparejo@iescastelar.com)  
-💼 **LinkedIn:** [linkedin.com/in/juan-parejo](https://www.linkedin.com/in/juan-parejo-231b8838b/)
+💼 **LinkedIn:** [linkedin.com/in/juan-parejo](https://www.linkedin.com/in/juan-parejo-231b8838b/) \
 📍 **Ubicación actual:** Málaga, España  
 
 ---
