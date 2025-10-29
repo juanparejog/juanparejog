@@ -80,7 +80,3 @@ Aplicación completa con **Spring Boot (Backend)** y **Angular (Frontend)**, dis
 - 🚀 Objetivo: unir **desarrollo web profesional** con **ciberseguridad avanzada**.
 
 ---
-
-<p align="center">
-  <i>“El mejor código es el que une innovación, seguridad y simplicidad.”</i>  
-</p>
