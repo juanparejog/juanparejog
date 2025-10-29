@@ -43,7 +43,7 @@ Busco constantemente **mejorar mis habilidades**, experimentar con nuevas tecnol
 
 ### 🚀 Proyectos Destacados  
 
-🔹 **Singleton 2D en Java**  
+🔹 **[Singleton 2D en Java](https://github.com/juanparejog/clase23-24/tree/main/Programaci%C3%B3n/Proyecto)**  
 _Implementación de un patrón Singleton en un entorno gráfico 2D._
 
 🔹 **Trabajo Fin de Curso — App Web para gestión de pedidos en un bar**  
