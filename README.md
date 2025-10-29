@@ -46,17 +46,9 @@ Busco constantemente **mejorar mis habilidades**, experimentar con nuevas tecnol
 🔹 **[Singleton 2D en Java](https://github.com/juanparejog/clase23-24/tree/main/Programaci%C3%B3n/Proyecto)**  
 _Implementación de un patrón Singleton en un entorno gráfico 2D._
 
-🔹 **Trabajo Fin de Curso — App Web para gestión de pedidos en un bar**  
+🔹 **[Trabajo Fin de Curso — App Web para gestión de pedidos en un bar](https://github.com/juanparejog/BarHub)**  
 _Backend desarrollado en **Spring Boot**, frontend en **Angular**._
 
-🔹 **[Proyecto Ciberseguridad Web](#)**  
-_Aplicación centrada en buenas prácticas y seguridad en el desarrollo web._
-
-🔹 **[Portfolio Web Personal](#)**  
-_Diseño y desarrollo de mi sitio web personal con HTML, CSS y JavaScript._
-
-🔹 **[Gestor de Tareas](#)**  
-_Aplicación CRUD desarrollada con Node.js y MongoDB._
 
 > 📌 *Pronto añadiré más proyectos relacionados con ciberseguridad y desarrollo full-stack.*
 
