@@ -75,6 +75,7 @@ _Backend desarrollado en **Spring Boot**, frontend en **Angular**._
 
 ### ⚡ Curiosidades  
 
+- Estoy especializado en Backend en Springboot
 - Me apasiona la seguridad ofensiva y la defensa digital.  
 - Siempre estoy explorando nuevas tecnologías para mejorar mis proyectos.  
 - Mi objetivo es unir **desarrollo web profesional** y **ciberseguridad avanzada**.  
