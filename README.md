@@ -80,7 +80,3 @@ _Backend desarrollado en **Spring Boot**, frontend en **Angular**._
 - Mi objetivo es unir **desarrollo web profesional** y **ciberseguridad avanzada**.  
 
 ---
-
-<p align="center">
-  <i>“La seguridad no es un producto, sino un proceso.” — Bruce Schneier</i>
-</p>
