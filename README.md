@@ -43,7 +43,7 @@ Mi meta: **combinar desarrollo profesional con seguridad avanzada** para constru
 
 ### 🚀 Proyectos Destacados  
 
-🔹 **[Singleton 2D en Java](https://github.com/juanparejog/clase23-24/tree/main/Programaci%C3%B3n/Proyecto)**  
+🔹 **[Singleton 2D en Java](https://github.com/juanparejog/ProyectoFinal)**  
 Implementación del **patrón Singleton** en un entorno gráfico 2D.  
 
 🔹 **[BarHub — App Web para gestión de pedidos](https://github.com/juanparejog/BarHub)**  
