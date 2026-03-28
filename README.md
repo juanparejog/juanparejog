@@ -76,16 +76,7 @@ Aplicación completa con **Spring Boot (Backend)** y **Angular (Frontend)**, dis
 - Principios OWASP Top 10
 - Redes seguras y defensa digital
 - Hardening de sistemas y contenedores
-
----
-
-### 📊 Estadísticas de GitHub  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanparejog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanparejog&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
-</p>
-
+- 
 ---
 
 ### 🎓 Formación y certificaciones
