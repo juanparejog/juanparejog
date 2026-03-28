@@ -101,8 +101,8 @@ Aplicación completa con **Spring Boot (Backend)** y **Angular (Frontend)**, dis
 
 ### 🌐 Contacto  
 
-📩 **Correo:** [juanparejo@iescastelar.com](mailto:juanparejo@iescastelar.com)  
-💼 **LinkedIn:** [linkedin.com/in/juan-parejo](https://www.linkedin.com/in/juan-parejo-231b8838b/)  
+📩 **Correo:** [juanparejo@iescastelar.com](mailto:juanparejotrabajo@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/juan-parejo](https://www.linkedin.com/in/juan-parejo-garc%C3%ADa-aa306b3bb/)  
 📍 **Ubicación actual:** Málaga, España  
 
 ---
