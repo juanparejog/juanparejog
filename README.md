@@ -55,6 +55,13 @@ Disfruto resolviendo problemas complejos, integrando desarrollo y ciberseguridad
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+#### 🛡️ Seguridad y Pentesting
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-EF3E47?style=for-the-badge&logo=owasp&logoColor=white)
+![Bandit](https://img.shields.io/badge/Bandit-F57C00?style=for-the-badge&logo=linux&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-CD853F?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-0A8C1E?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C8BF5?style=for-the-badge&logo=snyk&logoColor=white)
+
 ---
 
 ### 🚀 Proyectos Destacados  
