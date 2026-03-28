@@ -81,12 +81,10 @@ Aplicación completa con **Spring Boot (Backend)** y **Angular (Frontend)**, dis
 
 ### 📊 Estadísticas de GitHub  
 
-<div align="center">
-  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juanparejog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=10)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juanparejog&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=10)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanparejog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanparejog&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
