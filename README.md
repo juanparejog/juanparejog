@@ -57,6 +57,12 @@ Disfruto resolviendo problemas complejos, integrando desarrollo y ciberseguridad
 
 #### 🛡️ Seguridad y Pentesting
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-EF3E47?style=for-the-badge&logo=owasp&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-4B8BBE?style=for-the-badge&logo=gnubash&logoColor=white)
+![CyberChef](https://img.shields.io/badge/CyberChef-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white)
+![LinPEAS](https://img.shields.io/badge/LinPEAS-3EAAAF?style=for-the-badge&logo=linux&logoColor=white)
+![GTFOBins](https://img.shields.io/badge/GTFOBins-8A2BE2?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Bandit](https://img.shields.io/badge/Bandit-F57C00?style=for-the-badge&logo=linux&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-CD853F?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-0A8C1E?style=for-the-badge&logo=aquasecurity&logoColor=white)
