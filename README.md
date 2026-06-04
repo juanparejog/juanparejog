@@ -52,7 +52,10 @@ Disfruto resolviendo problemas complejos, mitigando riesgos de seguridad y colab
 #### 🔍 Incident Response & Análisis Forense
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![OPNsense](https://img.shields.io/badge/OPNsense-D42028?style=for-the-badge&logo=opnsense&logoColor=white)
-![Zimmerman Tools](https://img.shields.io/badge/Zimmerman_Tools-4B5563?style=for-the-badge&logo=windows&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-7C3AED?style=for-the-badge&logo=sleuthkit&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-34D399?style=for-the-badge&logo=python&logoColor=black)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-0052CC?style=for-the-badge&logo=dataiku&logoColor=white)
+![KAPE (Zimmerman)](https://img.shields.io/badge/KAPE_(Zimmerman)-4B5563?style=for-the-badge&logo=windows&logoColor=white)
 
 #### 🧰 DevOps, Infraestructura y OS  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
