@@ -4,24 +4,15 @@
 
 <h3 align="center">🔐 Construyo aplicaciones web seguras, escalables y orientadas a producción real</h3>
 
-
 ---
 
 ### 🧠 Sobre mí  
 
-Soy un **desarrollador de aplicaciones web** de **23 años**.
-  
-Cursando un **Máster en Ciberseguridad** en [**Digitech Málaga**](https://www.digitechfp.com/), profundizo en **análisis de vulnerabilidades**, **redes seguras**, **pentesting** y **defensa digital**.  
+Soy un **desarrollador de aplicaciones web** de **23 años** actualmente cursando un **Máster en Ciberseguridad** en [**Digitech Málaga**](https://www.digitechfp.com/). A través de esta formación, profundizo en **análisis de vulnerabilidades**, **redes seguras**, **pentesting**, **respuesta a incidentes** y **defensa digital**.  
 
-Me apasiona crear soluciones web **eficientes, seguras y escalables**, aplicando **buenas prácticas, metodologías ágiles y principios de ciberseguridad** desde la fase de diseño.  
-Disfruto resolviendo problemas complejos, optimizando arquitecturas y colaborando en equipos multidisciplinares para entregar **tecnología confiable y moderna**.  
-Mi meta: **combinar desarrollo profesional con seguridad avanzada**, construyendo aplicaciones que sean tanto funcionales como seguras.
+Me apasiona crear soluciones web **eficientes, seguras y escalables**, aplicando **arquitectura limpia, metodologías ágiles y principios de ciberseguridad (Security by Design)** desde la fase de diseño. Mi enfoque combina la optimización del rendimiento y la seguridad integral, uniendo el desarrollo de software moderno con la protección avanzada de sistemas y datos.
 
-Aplico principios de seguridad desde el diseño, asegurando que las aplicaciones sean resilientes y escalables.
-
-Mi enfoque combina **arquitectura limpia**, **optimización de rendimiento** y **seguridad integral**.
-
-Disfruto resolviendo problemas complejos, integrando desarrollo y ciberseguridad para entregar soluciones confiables.
+Disfruto resolviendo problemas complejos, mitigando riesgos de seguridad y colaborando en equipos multidisciplinares para entregar **tecnología confiable, moderna y resiliente**.
 
 ---
 
@@ -46,81 +37,81 @@ Disfruto resolviendo problemas complejos, integrando desarrollo y ciberseguridad
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### 🧰 Otras herramientas  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-384D54?style=for-the-badge&logo=docker&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
 #### 🛡️ Seguridad y Pentesting
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-EF3E47?style=for-the-badge&logo=owasp&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Netcat](https://img.shields.io/badge/Netcat-4B8BBE?style=for-the-badge&logo=gnubash&logoColor=white)
 ![CyberChef](https://img.shields.io/badge/CyberChef-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white)
-![LinPEAS](https://img.shields.io/badge/LinPEAS-3EAAAF?style=for-the-badge&logo=linux&logoColor=white)
-![GTFOBins](https://img.shields.io/badge/GTFOBins-8A2BE2?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Bandit](https://img.shields.io/badge/Bandit-F57C00?style=for-the-badge&logo=linux&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-CD853F?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-0A8C1E?style=for-the-badge&logo=aquasecurity&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C8BF5?style=for-the-badge&logo=snyk&logoColor=white)
+![LinPEAS](https://img.shields.io/badge/LinPEAS-3EAAAF?style=for-the-badge&logo=linux&logoColor=white)
+![GTFOBins](https://img.shields.io/badge/GTFOBins-8A2BE2?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### 🔍 Incident Response & Análisis Forense
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D42028?style=for-the-badge&logo=opnsense&logoColor=white)
+![Zimmerman Tools](https://img.shields.io/badge/Zimmerman_Tools-4B5563?style=for-the-badge&logo=windows&logoColor=white)
+
+#### 🧰 DevOps, Infraestructura y OS  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
 ### 🚀 Proyectos Destacados  
 
 🔹 **[Singleton 2D en Java](https://github.com/juanparejog/ProyectoFinal)**  
-Implementación del **patrón Singleton** en un entorno gráfico 2D.  
+Implementación del **patrón de diseño Singleton** aplicado en un entorno gráfico interactivo 2D.  
 
 🔹 **[BarHub — App Web para gestión de pedidos](https://github.com/juanparejog/BarHub)**  
-Aplicación completa con **Spring Boot (Backend)** y **Angular (Frontend)**, diseñada para optimizar la gestión de pedidos en un bar.  
+Aplicación Full-Stack robusta desarrollada con **Spring Boot (Backend)** y **Angular (Frontend)**, diseñada para optimizar flujos de trabajo y gestión de pedidos.  
 
-> 🧩 *Próximamente añadiré proyectos relacionados con ciberseguridad.*
+> 🧩 *Actualmente desarrollando nuevos proyectos enfocados en auditorías de seguridad, análisis forense y hardening.*
 
 ---
 
 ### 🛡️ Enfoque en Ciberseguridad
 
-- Análisis de vulnerabilidades y pruebas de penetración
-- Seguridad en APIs y aplicaciones web
-- Principios OWASP Top 10
-- Redes seguras y defensa digital
-- Hardening de sistemas y contenedores
-- 
+- **Seguridad Defensiva:** Gestión de incidentes, análisis forense digital en entornos Windows/Linux y monitorización de tráfico de red.
+- **Seguridad Ofensiva:** Análisis de vulnerabilidades, pruebas de penetración (Pentesting) y explotación controlada.
+- **Seguridad en Desarrollo:** Auditoría de código, aplicación de directrices OWASP Top 10 y bastionado (Hardening) de APIs y contenedores.
+- **Seguridad de Redes:** Configuración de firewalls perimetrales, enrutamiento seguro y arquitecturas Zero Trust.
+
 ---
 
-### 🎓 Formación y certificaciones
-- Formación Profesional de Grado Superior en Desarrollo de Aplicaciones Web
-- Máster en Ciberseguridad – Digitech Málaga (en curso)
+### 🎓 Formación y Certificaciones
+- **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**
+- **Máster en Ciberseguridad** – Digitech Málaga *(En curso)*
 
 ---
 
 ### 🌍 Idiomas
-- Español: Nativo  
-- Inglés: Técnico / Lectura de documentación
-- Portugués: Nivel medio
+- **Español:** Nativo  
+- **Inglés:** Técnico (Lectura fluida de documentación y escritura técnica)  
+- **Portugués:** Nivel intermedio  
 
 ---
 
 ### 🌐 Contacto  
 
-📩 **Correo:** [juanparejo@iescastelar.com](mailto:juanparejotrabajo@gmail.com)  
+📩 **Correo:** [juanparejotrabajo@gmail.com](mailto:juanparejotrabajo@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/juan-parejo](https://www.linkedin.com/in/juan-parejo-garc%C3%ADa-aa306b3bb/)  
-📍 **Ubicación actual:** Málaga, España  
+📍 **Ubicación:** Málaga, España  
 
 ---
 
 ### ⚡ Curiosidades  
 
-- 🧩 Especializado en **Backend con Spring Boot**.  
-- 🕵️‍♂️ Apasionado por la **seguridad ofensiva y defensa digital**.  
-- 💡 En constante exploración de **nuevas tecnologías** y metodologías de desarrollo.  
-- 🚀 Objetivo: unir **desarrollo web profesional** con **ciberseguridad avanzada**.
+- 🧩 Especializado en la arquitectura e integración del **Backend con Spring Boot**.  
+- 🕵️‍♂️ Apasionado por el Blue Teaming (Defensa), la respuesta ante incidentes y el análisis forense de artefactos.  
+- 🚀 Mi meta profesional es consolidarme como un perfil **DevSecOps**, integrando la seguridad de manera nativa en todo el ciclo de vida del software (SDLC).
 
 ---
 
-> 💬 Abierto a oportunidades de desarrollo backend, full-stack o relacionadas con ciberseguridad.  
-Siempre dispuesto a aprender, mejorar y afrontar nuevos retos tecnológicos.
+> 💬 Abierto a desafíos y oportunidades laborales orientadas a Desarrollo Backend/Full-Stack, analista SOC, respuesta a incidentes o consultorías de ciberseguridad.
