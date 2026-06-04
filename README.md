@@ -24,32 +24,54 @@ Mi enfoque profesional se basa en la **arquitectura limpia, la optimización del
 
 ### ⚙️ Tecnologías y Herramientas  
 
-#### 💡 Lenguajes y Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+### ⚙️ Tecnologías y Herramientas  
 
-#### 🗄️ Infraestructura y Bases de Datos  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+#### 💡 Lenguajes  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### 🛡️ Ciberseguridad y Auditoría (SecOps)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-EF3E47?style=flat-square&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=enterprise&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-CD853F?style=flat-square&logo=sonarqube&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C8BF5?style=flat-square&logo=snyk&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-0A8C1E?style=flat-square&logo=aquasecurity&logoColor=white)
-`Kali Linux` `Pentesting` `LinPEAS` `CyberChef` `Hydra`
+#### 🧩 Frameworks y Librerías
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+#### 🗄️ Bases de Datos  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🛡️ Seguridad y Pentesting
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-EF3E47?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-4B8BBE?style=for-the-badge&logo=gnubash&logoColor=white)
+![CyberChef](https://img.shields.io/badge/CyberChef-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-CD853F?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-0A8C1E?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C8BF5?style=for-the-badge&logo=snyk&logoColor=white)
+![LinPEAS](https://img.shields.io/badge/LinPEAS-3EAAAF?style=for-the-badge&logo=linux&logoColor=white)
+![GTFOBins](https://img.shields.io/badge/GTFOBins-8A2BE2?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### 🔍 Incident Response & Análisis Forense
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D42028?style=for-the-badge&logo=opnsense&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-7C3AED?style=for-the-badge&logo=sleuthkit&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-34D399?style=for-the-badge&logo=python&logoColor=black)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-0052CC?style=for-the-badge&logo=dataiku&logoColor=white)
+![KAPE (Zimmerman)](https://img.shields.io/badge/KAPE_(Zimmerman)-4B5563?style=for-the-badge&logo=windows&logoColor=white)
+
+#### 🧰 DevOps, Infraestructura y OS  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
