@@ -103,8 +103,8 @@ Demostración práctica y eficiente del **patrón de diseño Singleton** aplicad
 ---
 
 ### 🎓 Formación y Certificaciones
-*   **Máster en Ciberseguridad** – Digitech Málaga *(En curso)*
 *   **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**
+*   **Máster en Ciberseguridad** – Digitech Málaga *(En curso)*
 
 #### 🌍 Idiomas
 *   **Español:** Nativo
