@@ -1,9 +1,9 @@
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#58a6ff;">Juan Parejo García</span></h1>
 
-<h3 align="center">💻 Desarrollador Web Full-Stack | 🎓 Especialista en Ciberseguridad</h3>
+<h3 align="center">💻 Desarrollador Web Especializado en Ciberseguridad</h3>
 
 <p align="center">
-  <strong>Construyo aplicaciones web seguras, escalables y orientadas a entornos de producción real.</strong>
+  <strong>Desarrollo aplicaciones web seguras, escalables y preparadas para entornos de producción.</strong>
 </p>
 
 <p align="center">
@@ -16,9 +16,13 @@
 
 ### 🧠 Sobre mí  
 
-Tengo **23 años** y soy **Desarrollador de Aplicaciones Web**. Actualmente curso un **Máster en Ciberseguridad** en [**Digitech Málaga**](https://www.digitechfp.com/), donde profundizo en análisis de vulnerabilidades, redes seguras, pentesting y defensa digital.
+Tengo **23 años** y soy **Desarrollador Web Full-Stack especializado en Ciberseguridad**.
 
-Mi enfoque profesional se basa en la **arquitectura limpia, la optimización del rendimiento y el principio de "Seguridad desde el Diseño" (Security by Design)**. Me apasiona fusionar el desarrollo backend y full-stack con la ciberseguridad avanzada, garantizando que el software no solo sea funcional y escalable, sino también resiliente ante amenazas modernas.
+Tras completar el **Grado Superior en Desarrollo de Aplicaciones Web (DAW)** y el **Máster en Ciberseguridad**, he orientado mi perfil profesional hacia el desarrollo de software seguro, combinando conocimientos de programación, arquitectura de aplicaciones y seguridad ofensiva y defensiva.
+
+Mi enfoque se basa en la filosofía **Security by Design**, integrando la seguridad en todas las fases del desarrollo: desde el diseño de la arquitectura y la implementación de APIs hasta la validación del código, el análisis de vulnerabilidades y el despliegue en producción.
+
+Me interesa especialmente el ámbito **DevSecOps**, la seguridad de aplicaciones web, la protección de APIs y la automatización de controles de seguridad dentro del ciclo de vida del software.
 
 ---
 
@@ -103,8 +107,8 @@ Demostración práctica y eficiente del **patrón de diseño Singleton** aplicad
 ---
 
 ### 🎓 Formación y Certificaciones
-*   **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**
-*   **Máster en Ciberseguridad** – Digitech Málaga *(En curso)*
+* **Técnico Superior en Desarrollo de Aplicaciones Web (DAW) - IES Castelar (Badajoz)**
+* **Máster en Ciberseguridad – DigitechFP (Málaga)**
 
 #### 🌍 Idiomas
 *   **Español:** Nativo
@@ -113,4 +117,4 @@ Demostración práctica y eficiente del **patrón de diseño Singleton** aplicad
 
 ---
 
-*   💬 Abierto a oportunidades como **Junior Full-Stack Developer**, **Backend Developer** o roles enfocados en **Ciberseguridad/DevSecOps**.
+> 💬 Abierto a oportunidades como **Desarrollador Full-Stack**, **Backend Developer**, **DevSecOps Engineer**, **SOC** o perfiles relacionados con **Seguridad de Aplicaciones (AppSec)** y **Ciberseguridad**.
