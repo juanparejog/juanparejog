@@ -140,9 +140,12 @@ Soy desarrollador web full-stack con formación especializada en ciberseguridad.
 
 <p>
   <strong>Idiomas:</strong>
-  <img src="https://img.shields.io/badge/Español-Nativo-C60B1E?style=flat-square" alt="Español nativo">
-  <img src="https://img.shields.io/badge/Inglés-Técnico-012169?style=flat-square" alt="Inglés técnico">
-  <img src="https://img.shields.io/badge/Portugués-Intermedio-006600?style=flat-square" alt="Portugués intermedio">
+  
+  <ul>
+    <li><img src="https://img.shields.io/badge/Español-Nativo-C60B1E?style=flat-square" alt="Español nativo"></li>
+    <li><img src="https://img.shields.io/badge/Inglés-Técnico-012169?style=flat-square" alt="Inglés técnico"></li>
+    <li><img src="https://img.shields.io/badge/Portugués-Intermedio-006600?style=flat-square" alt="Portugués intermedio"></li>
+  </ul>
 </p>
 
 ---
